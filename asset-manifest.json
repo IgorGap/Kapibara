@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Kapibara/static/js/main.fee769ad.js",
+    "index.html": "/Kapibara/index.html",
+    "main.fee769ad.js.map": "/Kapibara/static/js/main.fee769ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fee769ad.js"
+  ]
+}
