@@ -9,7 +9,7 @@ export const HomeImage = () => {
           src={'https://freelance.ru/img/portfolio/pics/00/37/47/3622754.jpg'}
           alt={'title'}
           loading="lazy"
-          style={{ borderRadius: '10%', marginTop: '5%'}}
+          style={{ borderRadius: '10%', marginTop: '15%', height:'600px'}}
         />
       </Box>
     </Stack>
