@@ -8,3 +8,5 @@
 
 Запустить командой 
 - npm start
+
+Проект можно посмотреть по ссылке https://igorgap.github.io/Kapibara/
