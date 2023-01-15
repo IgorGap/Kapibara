@@ -1,0 +1,1 @@
+export { StyledTypography } from './styledTypography'

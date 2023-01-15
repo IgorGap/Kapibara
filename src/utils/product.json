@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "price": 13,
+  "description": "Товар в корзине",
+  "image": "https://i.pravatar.cc",
+  "category": "electronic",
+  "rating": {
+    "rate": 42,
+    "count": 10
+  },
+  "number":0
+}
